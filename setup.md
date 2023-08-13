@@ -1,11 +1,10 @@
-# [Sameera's](https://sameerasw.me/) Setup Information
 <details>
-<summary>Acer Nitro-5 (2018) - Specs</summary>
+<summary>Mj PC - Specs</summary>
 
-- i7-8750H
-- 16GB DDR4
-- GTX1050
-- 1TB HDD + Intel Optane
+- i7-11KF
+- 32GB DDR5
+- rtx306+1080TI
+- 1TB HDD + 1TB M2
 - Windows 11 Insider Preview Dev
 
 </details>
@@ -42,9 +41,6 @@
   <details>
 
   - Text Extractor
-
-- [spicetify](https://github.com/spicetify/spicetify-cli) - To make Spotify look better.<br>
-  ![image](https://user-images.githubusercontent.com/68902530/236679869-9670b999-478a-456c-a6c9-849416298152.png)
 
 - [QuickLook](https://github.com/QL-Win/QuickLook) - QuickLook, for Windows<br>
   ![image](https://user-images.githubusercontent.com/68902530/236679914-eeed96da-d2cc-4bb0-8a84-97404a7a14ef.png)
